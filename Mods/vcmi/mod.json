@@ -48,6 +48,17 @@
 		]
 	},
 
+	"Svenska" : {
+		"name" : "VCMI essensiella filer",
+		"description" : "Nödvändiga filer för att VCMI ska kunna köras korrekt",
+		"author" : "VCMI-teamet",
+		"modType" : "Grafik",
+		
+		"translations" : [
+			"config/vcmi/swedish.json"
+		]
+	},
+
 	"version" : "1.1.1",
 	"author" : "VCMI Team",
 	"contact" : "http://forum.vcmi.eu/index.php",
